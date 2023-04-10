@@ -1,2 +1,2 @@
 # FPS-Micrigame
- Vini-FristPlay
+ ViniFristGame
